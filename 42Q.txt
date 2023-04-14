@@ -1,0 +1,57 @@
+
+The first  natural numbers are 1,2,3,4,5,.............and 20
+We know that
+
+         sum of numbers   
+ Average=___________________________
+
+          number of numbers
+ 
+             (1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20)         210
+ average=_______________________________________________________________= ____=10.5
+                        20                                                 20
+Hence, the Average of first 20 natural number is 10.5
+....................................................................
+.The first five consecutive natural numbers are,
+
+1, 2, 3, 4, and 5.
+
+1^2 = 1.
+
+2^2 = 4.
+
+3^2 = 9.
+
+4^2 = 16.
+
+5^2 = 25.
+
+Now, the average of the first five consecutive natural numbers are
+
+= (1 + 4 + 9 + 16 + 25) / 5.
+
+= 55 / 5.
+
+= 11.
+
+Hence, the average of the first five consecutive natural numbers is 11.
+
+
+..........................................................................
+Let each side of the square be a. 
+Then, area = .a2
+
+New side =125*a/100=5*a/4. New area = (5*a/4)^2 = (25*a^2/16)
+ 
+
+Increase in area = 25*a^2/16−a^2=9a^2/16
+
+Increase% = [9a^2/16*1a^2*100] % = 56.25%.
+.............................................................................
+100 years contain 5 odd days. So, last day of 1st  century is 'Friday'
+200 years contain (5×2)=10 odd days =3 odd days.So. last day of 2nd century is 'Wednesday'.
+300 years contain (5×3)=15 odd days =1 odd day.
+∴ Last day of 3rd century is 'Monday'.
+400 years contain 6 odd days.
+∴ Last day of 4th century is 'Saturday'
+Since the order is continually kept in successive cycles, we see that the last day of a century cannot be Tuesday, Thursday or Saturday.
